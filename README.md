@@ -1,6 +1,6 @@
 ## Olá Coders! 👋
 
-**dionebraga/dionebraga** é um ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
+**dionebraga/dionebraga** ✨README.md✨ 
 
 - 🔭 Atualmente estou trabalhando como Facilitadora de Qualidade de Software e Análise de Dados 
 - 🌱 Estou aprendendo Machine Learning Engineering..
