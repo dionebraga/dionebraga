@@ -6,4 +6,3 @@
 - 🌱 Estou aprendendo Machine Learning Engineering..
 - 👯 Colaborando para transformar pessoas e impactar comunidades.. Instituto Joga Junto
 - 😄 Apelido: Di
-- ⚡ Curiosidade: ...
